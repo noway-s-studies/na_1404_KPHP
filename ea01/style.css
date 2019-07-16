@@ -1,0 +1,40 @@
+#page {
+    border: 1px solid black;
+    background-color: #cccccc;
+    width: 1000px;
+}
+
+#header {
+    border-bottom: 1px solid black;
+    background-color: #cccccc;
+    height: 50px;
+    padding: 10px;
+}
+
+#main {
+    background-color: #ccffcc;
+    min-height: 350px;
+}
+
+#left {
+    background-color: #ccffcc;
+    float: left;
+    padding: 10px;
+}
+
+#middle {
+    border-left: 1px solid black;
+    background-color: #ccffcc;
+    margin-left: 300px;
+    min-height: 400px;
+    padding: 10px;
+}
+
+#footer {
+    border-top: 1px solid black;
+    background-color: #cccccc;
+    height: 50px;
+    clear: both;
+    padding: 10px;
+}
+
