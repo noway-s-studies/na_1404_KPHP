@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-            print "";
+            print "noway";
             //print "\n";
             print "<br>";
             echo "";
