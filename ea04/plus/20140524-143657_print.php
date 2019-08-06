@@ -1,0 +1,1 @@
+print "<li><a href='#' onClick='Load_TesztKerdesForm()'>Új tesztkérdés</a></li>";

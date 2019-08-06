@@ -1,0 +1,1 @@
+$stmt->setFetchMode(PDO::FETCH_CLASS, "TesztKerdes");
